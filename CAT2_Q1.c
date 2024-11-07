@@ -1,4 +1,4 @@
-/*program to calculate and display elecric bill for custome
+/*program to enter employees details
 Author: Thuku Moses
 Date 6/11/2024
 */
